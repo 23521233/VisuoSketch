@@ -1,2 +1,3 @@
 # VisuoSketch
-Phần mềm vẽ có tên là VisuoSketch của nhóm gồm Tài Quang, Hữu Phước, Minh Quang
+Phần mềm vẽ có tên là VisuoSketch  
+Nhóm gồm Tài Quang, Hữu Phước, Minh Quang
